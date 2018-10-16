@@ -1,0 +1,12 @@
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/bin/iPhoneSimulator/Debug/SoundTests.exe
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/bin/iPhoneSimulator/Debug/SoundTests.pdb
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/SoundTests.csprojResolveAssemblyReference.cache
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/SoundTests.csproj.CoreCompileInputs.cache
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/SoundTests.exe
+/Users/j378307/Desktop/IOS/SoundTests/SoundTests/obj/iPhoneSimulator/Debug/SoundTests.pdb
